@@ -8,12 +8,12 @@ Developed an interactive Power BI dashboard to monitor inventory performance and
 - Microsoft Excel
 
 ## Features
-- KPI Cards (Total Units Sold, Total Stock Available, Average Fill Rate)
+- KPI Cards 
 - Store-wise Sales Analysis
 - Sales by Category
 - Inventory Health Distribution
 - Sales Trend Analysis
-- Interactive Store and Category Filters
+- Interactive Store
 
 ## Business Insights
 - Compared sales across stores.
